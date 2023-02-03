@@ -5,6 +5,7 @@
   "repository": "git@github.com:tomjhinton/birbTinyilands.git",
   "author": "Tom Hinton <tomjhinton@gmail.com>",
   "license": "MIT",
+  "homepage": ".",
   "scripts": {
     "dev": "react-scripts start",
     "build": "react-scripts build",
